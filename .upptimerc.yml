@@ -35,7 +35,7 @@ status-website:
 
 i18n:
   activeIncidents: Aktive hendelser
-  allSystemsOperational: Alt ser ut for å virke
+  allSystemsOperational: Alt er fint!
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
