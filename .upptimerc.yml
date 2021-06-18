@@ -21,8 +21,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.voit.cloud
-  baseUrl: /upptime
+  cname: status.voit.cloud
+  # baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/61318223?s=200&v=4
   name: Løsninger fra Voit
   introTitle: "**Voit** tilbyr data for mindre data"
