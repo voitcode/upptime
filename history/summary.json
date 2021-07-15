@@ -22,19 +22,19 @@
     "url": "https://voit.no",
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1827,
-    "timeDay": 1234,
-    "timeWeek": 1540,
-    "timeMonth": 1827,
-    "timeYear": 1827,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1816,
+    "timeDay": 1332,
+    "timeWeek": 1526,
+    "timeMonth": 1816,
+    "timeYear": 1816,
     "dailyMinutesDown": {
-      "2021-07-15": 2
+      "2021-07-15": 12
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://git.voit.no",
     "icon": "https://favicons.githubusercontent.com/git.voit.no",
     "slug": "git",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 766,
-    "timeWeek": 585,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 705,
+    "timeDay": 818,
+    "timeWeek": 621,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2021-07-15": 0
+      "2021-07-15": 10
     }
   },
   {
