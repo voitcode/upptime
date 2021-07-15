@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 868,
-    "timeWeek": 834,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "time": 930,
+    "timeDay": 1039,
+    "timeWeek": 868,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://voit.no",
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1845,
-    "timeDay": 1573,
-    "timeWeek": 1614,
-    "timeMonth": 1845,
-    "timeYear": 1845,
-    "dailyMinutesDown": {}
+    "time": 1827,
+    "timeDay": 1234,
+    "timeWeek": 1540,
+    "timeMonth": 1827,
+    "timeYear": 1827,
+    "dailyMinutesDown": {
+      "2021-07-15": 2
+    }
   },
   {
     "name": "Disqus",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 645,
-    "timeWeek": 631,
-    "timeMonth": 758,
-    "timeYear": 758,
+    "time": 761,
+    "timeDay": 882,
+    "timeWeek": 667,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +60,20 @@
     "url": "https://git.voit.no",
     "icon": "https://favicons.githubusercontent.com/git.voit.no",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 430,
-    "timeWeek": 567,
-    "timeMonth": 698,
-    "timeYear": 698,
-    "dailyMinutesDown": {}
+    "time": 700,
+    "timeDay": 766,
+    "timeWeek": 585,
+    "timeMonth": 700,
+    "timeYear": 700,
+    "dailyMinutesDown": {
+      "2021-07-15": 0
+    }
   },
   {
     "name": "Kuraas webshop",
@@ -82,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3109,
-    "timeDay": 823,
-    "timeWeek": 4688,
-    "timeMonth": 3109,
-    "timeYear": 3109,
+    "time": 3197,
+    "timeDay": 6092,
+    "timeWeek": 3447,
+    "timeMonth": 3197,
+    "timeYear": 3197,
     "dailyMinutesDown": {}
   }
 ]
