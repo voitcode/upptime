@@ -22,10 +22,10 @@
     "url": "https://voit.no",
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1701,
@@ -34,6 +34,7 @@
     "timeMonth": 1526,
     "timeYear": 1701,
     "dailyMinutesDown": {
+      "2021-08-06": 1,
       "2021-07-16": 34,
       "2021-07-15": 6
     }
@@ -61,9 +62,9 @@
     "url": "https://git.voit.no",
     "icon": "https://favicons.githubusercontent.com/git.voit.no",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +73,9 @@
     "timeWeek": 727,
     "timeMonth": 693,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-06": 0
+    }
   },
   {
     "name": "Kuraas webshop",
