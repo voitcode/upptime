@@ -6,7 +6,10 @@ sites:
   - name: Nextcloud
     url: https://voit.cloud
   - name: Wordpress
-    url: https://voit.no
+    url: https://voit.no/wp-login.php
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: Disqus
     url: https://prat.voit.no
   - name: git
