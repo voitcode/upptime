@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress-fra-voit",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 535,
     "timeDay": 535,
     "timeWeek": 535,
     "timeMonth": 535,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2021-08-07": 53
+      "2021-08-07": 1170
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/git.voit.no",
     "slug": "gitea",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-07": 53
+      "2021-08-07": 1170
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://kuraas.no/wp-login.php",
     "icon": "https://favicons.githubusercontent.com/kuraas.no",
     "slug": "kuraas-no",
-    "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 1326,
+    "timeDay": 1326,
+    "timeWeek": 1326,
+    "timeMonth": 1326,
+    "timeYear": 1326,
     "dailyMinutesDown": {
-      "2021-08-07": 53
+      "2021-08-07": 1170
     }
   },
   {
