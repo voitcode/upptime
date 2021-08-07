@@ -22,17 +22,17 @@
     "url": "https://voit.no/wp-login.php",
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress-fra-voit",
-    "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 1336,
-    "timeDay": 1336,
-    "timeWeek": 1336,
-    "timeMonth": 1336,
-    "timeYear": 1336,
+    "status": "down",
+    "uptime": "2.77%",
+    "uptimeDay": "2.77%",
+    "uptimeWeek": "2.77%",
+    "uptimeMonth": "2.77%",
+    "uptimeYear": "2.77%",
+    "time": 1203,
+    "timeDay": 1203,
+    "timeWeek": 1203,
+    "timeMonth": 1203,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2021-08-07": 1252
     }
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-07": 1252
+      "2021-08-07": 1288
     }
   },
   {
@@ -81,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/kuraas.no",
     "slug": "kuraas-no",
     "status": "up",
-    "uptime": "6.56%",
-    "uptimeDay": "6.56%",
-    "uptimeWeek": "6.56%",
-    "uptimeMonth": "6.56%",
-    "uptimeYear": "6.56%",
+    "uptime": "9.15%",
+    "uptimeDay": "9.15%",
+    "uptimeWeek": "9.15%",
+    "uptimeMonth": "9.15%",
+    "uptimeYear": "9.15%",
     "time": 1326,
     "timeDay": 1326,
     "timeWeek": 1326,
