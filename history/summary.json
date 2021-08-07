@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress-fra-voit",
     "status": "down",
-    "uptime": "4.05%",
-    "uptimeDay": "4.05%",
-    "uptimeWeek": "4.05%",
-    "uptimeMonth": "4.05%",
-    "uptimeYear": "4.05%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 535,
     "timeDay": 535,
     "timeWeek": 535,
     "timeMonth": 535,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2021-08-07": 0
+      "2021-08-07": 53
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/git.voit.no",
     "slug": "gitea",
     "status": "down",
-    "uptime": "7.40%",
-    "uptimeDay": "7.40%",
-    "uptimeWeek": "7.40%",
-    "uptimeMonth": "7.40%",
-    "uptimeYear": "7.40%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-07": 0
+      "2021-08-07": 53
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/kuraas.no",
     "slug": "kuraas-no",
     "status": "down",
-    "uptime": "17.60%",
-    "uptimeDay": "17.60%",
-    "uptimeWeek": "17.60%",
-    "uptimeMonth": "17.60%",
-    "uptimeYear": "17.60%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-07": 0
+      "2021-08-07": 53
     }
   },
   {
