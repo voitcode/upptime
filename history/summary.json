@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 830,
-    "timeWeek": 830,
-    "timeMonth": 830,
-    "timeYear": 830,
+    "time": 791,
+    "timeDay": 752,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress-fra-voit",
     "status": "up",
-    "uptime": "2.75%",
-    "uptimeDay": "2.75%",
-    "uptimeWeek": "2.75%",
-    "uptimeMonth": "2.75%",
-    "uptimeYear": "2.75%",
-    "time": 1179,
-    "timeDay": 1179,
-    "timeWeek": 1179,
-    "timeMonth": 1179,
-    "timeYear": 1179,
+    "uptime": "16.48%",
+    "uptimeDay": "17.16%",
+    "uptimeWeek": "16.48%",
+    "uptimeMonth": "16.48%",
+    "uptimeYear": "16.48%",
+    "time": 1158,
+    "timeDay": 1314,
+    "timeWeek": 1158,
+    "timeMonth": 1158,
+    "timeYear": 1158,
     "dailyMinutesDown": {
-      "2021-08-07": 1264
+      "2021-08-07": 1252
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 625,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "time": 659,
+    "timeDay": 693,
+    "timeWeek": 659,
+    "timeMonth": 659,
+    "timeYear": 659,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-07": 1299
+      "2021-08-08": 63,
+      "2021-08-07": 1436
     }
   },
   {
@@ -81,16 +82,16 @@
     "icon": "https://favicons.githubusercontent.com/kuraas.no",
     "slug": "kuraas-no",
     "status": "up",
-    "uptime": "9.95%",
-    "uptimeDay": "9.95%",
-    "uptimeWeek": "9.95%",
-    "uptimeMonth": "9.95%",
-    "uptimeYear": "9.95%",
-    "time": 1326,
-    "timeDay": 1326,
-    "timeWeek": 1326,
-    "timeMonth": 1326,
-    "timeYear": 1326,
+    "uptime": "21.95%",
+    "uptimeDay": "22.85%",
+    "uptimeWeek": "21.95%",
+    "uptimeMonth": "21.95%",
+    "uptimeYear": "21.95%",
+    "time": 1204,
+    "timeDay": 1204,
+    "timeWeek": 1204,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2021-08-07": 1170
     }
@@ -106,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 866,
-    "timeWeek": 866,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "time": 899,
+    "timeDay": 932,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {}
   }
 ]
