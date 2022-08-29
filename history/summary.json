@@ -25,9 +25,9 @@
     "url": "https://voit.no/wp-login.php",
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress-fra-voit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 2206,
     "timeMonth": 2098,
     "timeYear": 2060,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   },
   {
     "name": "Prat med Voit",
@@ -89,9 +91,9 @@
     "url": "https://kuraas.no/wp-login.php",
     "icon": "https://favicons.githubusercontent.com/kuraas.no",
     "slug": "kuraas-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,7 +102,9 @@
     "timeWeek": 1349,
     "timeMonth": 1505,
     "timeYear": 1596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   },
   {
     "name": "Kuraas nettbutikk",
