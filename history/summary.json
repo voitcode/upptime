@@ -25,9 +25,9 @@
     "url": "https://voit.no/wp-login.php",
     "icon": "https://favicons.githubusercontent.com/voit.no",
     "slug": "wordpress-fra-voit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 2056,
     "timeYear": 2061,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-08-29": 18
     }
   },
@@ -91,9 +92,9 @@
     "url": "https://kuraas.no/wp-login.php",
     "icon": "https://favicons.githubusercontent.com/kuraas.no",
     "slug": "kuraas-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -103,6 +104,7 @@
     "timeMonth": 1502,
     "timeYear": 1583,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-08-29": 18
     }
   },
