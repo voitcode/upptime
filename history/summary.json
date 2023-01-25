@@ -47,9 +47,9 @@
     "url": "https://prat.voit.no",
     "icon": "https://icons.duckduckgo.com/ip3/prat.voit.no.ico",
     "slug": "prat-med-voit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -59,6 +59,7 @@
     "timeMonth": 841,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-13": 20,
       "2022-02-15": 16
     }
