@@ -96,9 +96,9 @@
     "url": "https://kuraas.no/wp-login.php",
     "icon": "https://icons.duckduckgo.com/ip3/kuraas.no.ico",
     "slug": "kuraas-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -108,6 +108,7 @@
     "timeMonth": 917,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2023-07-26": 33,
       "2023-06-15": 29,
       "2022-09-20": 27
